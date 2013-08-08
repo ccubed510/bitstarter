@@ -134,14 +134,13 @@
 	</div>
 	<div class="row-fluid subheading">
 	  <div class="span12">
-	    <p class="lead">A kickstarter for a poor German man </p>
+	    <p class="lead">A kickstarter for a German hipster</p>
 	  </div>
 	</div>
 	<div class="row-fluid pitch">
 	  <div class="span5 offset1 video">
 	    <img class="img-polaroid" src="http://i.imgur.com/M9wQEvR.gif">
          </div>
-
 	
 	  <!--new actions div to hold stats order and share buttons-->
 	  <div class="span5 actions">
